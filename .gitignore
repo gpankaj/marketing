@@ -1,0 +1,6 @@
+.idea/
+.metadata/
+nodemodules/
+*.DS_Store
+*.map
+*.js
