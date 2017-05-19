@@ -59,9 +59,11 @@ export class AuthRouter{
 
             user.findOne({email:req.body.email},(err:any,userObj:any)=>{
                 if (err) throw err;
+                console.log(userObj);
                 if(!userObj) {
-                    res.status(500).json({success:false,msg: "User not found"})
+                    res.status(200).json({success:false,msg: "User not found"})
                     res.end();
+                    return;
                 }
                 bcrypt.compare(req.body.password, userObj.passwordHash,(err:any,matched:Boolean)=>{
                     if(matched) {
@@ -71,9 +73,11 @@ export class AuthRouter{
 
                         res.status(200).json({success: true, token: 'JWT ' + token, user: userObj , msg: "Password Matched!"});
                         res.end();
+                        return;
                     } else {
-                        res.status(200).json({success: true, msg: "Password does not match"});
+                        res.status(200).json({success: false, msg: "Password does not match"});
                         res.end();
+                        return;
                     }
                 })
             })

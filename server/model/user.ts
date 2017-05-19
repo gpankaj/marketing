@@ -50,8 +50,7 @@ export const user = model('userSchema',userSchame);
 export const hashPassword = function hashPassword(password_Or_id: String, callback:Function){
     bcrypt.genSalt(10,(err:any,salt:String)=>{
         if(err) throw err;
-        console.log("ORIG PASS:", password_Or_id.trim());
-        bcrypt.hash(password_Or_id.trim(),salt, (err:any,hash:String)=> {
+        bcrypt.hash(password_Or_id,salt, (err:any,hash:String)=> {
             if(err) throw err;
 
             callback(null,hash)
