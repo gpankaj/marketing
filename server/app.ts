@@ -6,7 +6,7 @@ import {ServerConfig} from "./config/server";
 import {RouteHandler} from "./routes/routehandler";
 import {onErrorMiddleware} from "./handlers/onerror";
 import * as _ from 'lodash';
-
+import {Request, Response} from "express";
 
 
 const port = ServerConfig.getPort();
@@ -31,6 +31,7 @@ import { botSchema } from "./model/bot";
 import { customerSchema } from "./model/customer";
 import { establishment } from "./model/establishment";
 import { owner } from "./model/owner";
+import * as path from "path";
 /*
 //create new model
 let newOwner = new owner({name:"owner1",email:"owner1@gmail.com",phone:[1234567890,2214324324,21434324]});

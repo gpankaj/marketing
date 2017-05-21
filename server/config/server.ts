@@ -12,7 +12,7 @@ import {Passport} from "passport";
 
 
 export class ServerConfig{
-    private static port : number = 3000;
+    private static port : number = process.env.PORT || 8080;
     private static app:Application = express();
 
     static passport = require('passport');

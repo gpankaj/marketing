@@ -16,6 +16,8 @@ import {CustomerRouter} from "./customer/route";
 import {ServiceProviderRoute} from "./serviceprovider/route";
 import {BotRoute} from "./serviceprovider/bot/route";
 import {AuthRouter} from "./auth/route";
+import * as path from "path";
+import {WrongRoute} from "./wrongroute/route";
 
 
 
@@ -31,6 +33,8 @@ export class RouteHandler{
         this.app.use('/owner', new ServiceProviderRoute().getRouter());
         this.app.use('/bot', new BotRoute().getRouter());
         this.app.use('/', new AuthRouter().getRouter());
+        this.app.use('/*', new WrongRoute().getRouter());
+        //this.app.use('*', (req,res)=>{res.sendFile(path.join(__dirname,'/../public/index.html'))})
     }
 
     getApp(){

@@ -17,6 +17,7 @@ export class AuthRouter{
 
     }
 
+
     getRouter() {
         return this.routerVar;
     }
