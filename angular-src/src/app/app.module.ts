@@ -15,6 +15,10 @@ import {RegisterValidateServiceService} from './services/register-validate-servi
 import {FlashMessagesModule} from "angular2-flash-messages";
 import {AuthService} from "./services/auth.service";
 import { AuthGuard } from './guards/auth.guard';
+import { EstablishmentComponent } from './components/establishment/establishment.component';
+import { BotComponent } from './components/bot/bot.component';
+import { ChatComponent } from './components/chat/chat.component';
+import { CustomerComponent } from './components/customer/customer.component';
 
 const appRoutes:Routes = [
   {path:'',component:HomeComponent},
@@ -22,7 +26,7 @@ const appRoutes:Routes = [
   {path:'login',component:LoginComponent},
   {path:'dashboard',component:DashboardComponent, canActivate:[AuthGuard]},
   {path:'profile',component:ProfileComponent, canActivate:[AuthGuard]},
-
+  {path:'customers',component:CustomerComponent, canActivate:[AuthGuard]}
 ]
 
 
@@ -34,7 +38,11 @@ const appRoutes:Routes = [
     RegisterComponent,
     HomeComponent,
     DashboardComponent,
-    ProfileComponent
+    ProfileComponent,
+    EstablishmentComponent,
+    BotComponent,
+    ChatComponent,
+    CustomerComponent
   ],
   imports: [
     BrowserModule,

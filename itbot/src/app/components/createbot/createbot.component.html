@@ -1,0 +1,96 @@
+<form>
+  <div class="form-group">
+    <label for="name">Name of the Bot</label>
+    <input type="text" class="form-control" id="name" aria-describedby="emailHelp" placeholder="Name of the Bot">
+    <small id="nameHelp" class="form-text text-muted">Can not be Changed Later.</small>
+  </div>
+
+  <div class="form-group">
+    <label for="description">Long Description</label>
+    <textarea type="text" class="form-control" id="description" aria-describedby="emailHelp" placeholder="Long Description"> </textarea>
+    <small id="descriptionHelp" class="form-text text-muted">Can be Changed Later</small>
+  </div>
+
+
+  <div class="form-group">
+    <label for="category">Select the category</label>
+    <select class="form-control" id="category">
+      <option>IT</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="subcategory">Select the Sub-category</label>
+    <select class="form-control" id="subcategory">
+      <option>Jenkins</option>
+      <option>Git</option>
+      <option>Perforce</option>
+      <option>Git</option>
+    </select>
+  </div>
+
+
+  <div class="container form-group">
+    <div class="row">
+      <div class="col-md-12 column">
+        <table class="table table-bordered table-hover" id="tab_logic">
+          <thead>
+          <tr >
+            <th class="text-center">
+              #
+            </th>
+            <th class="text-center">
+              Name
+            </th>
+            <th class="text-center">
+              Match Pattern
+            </th>
+            <th class="text-center">
+              Condition
+            </th>
+            <th class="text-center">
+              Text Response
+            </th>
+            <th class="text-center">
+              Image Response
+            </th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr id='rule1'>
+            <td>
+              1
+            </td>
+            <td>
+              <input type="text" name='name'  placeholder='Name' class="form-control"/>
+            </td>
+            <td>
+              <input type="text" name='pattern' placeholder='pattern' class="form-control"/>
+            </td>
+            <td>
+              <select class="form-control" id="condition" name="condition">
+                <option>Exact Match</option>
+                <option>Few Match</option>
+                <option>Match in the begining</option>
+                <option>Match in the end</option>
+                <option>Yes No Match</option>
+                <option>Number Match</option>
+              </select>
+
+            </td>
+            <td>
+              <input type="text" name='textresult' placeholder='Text Response' class="form-control"/>
+            </td>
+            <td>
+              <input type="file" name='ipDisp0' placeholder='Upload Image Response' class="form-control"/>
+            </td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <input type="checkbox" id="active" class="custom-control-input">
+  <span class="custom-control-description">Activate</span>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

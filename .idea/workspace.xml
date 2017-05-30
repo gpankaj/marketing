@@ -1,0 +1,2486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f44249e4-622b-4c51-b01d-1f9064b57ef9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/server/config/server.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/server/config/utils.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="26" column="91" lean-forward="false" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+              <folding>
+                <element signature="e#45#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="route.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/server/routes/botrules/route.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="110" column="8" lean-forward="false" selection-start-line="110" selection-start-column="8" selection-end-line="129" selection-end-column="11" />
+              <folding>
+                <element signature="e#44#98#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="route.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/server/routes/auth/route.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding>
+                <marker date="1495905827800" expanded="true" signature="332:809" ph="{&quot;apiai&quot;: &quot;^4.0.2&quot;...}" />
+                <marker date="1495905827800" expanded="true" signature="832:1507" ph="{&quot;@types/bcrypt&quot;: &quot;^1.0.0&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routehandler.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/server/routes/routehandler.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="route.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/server/routes/bot/route.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="48" column="29" lean-forward="false" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+              <folding>
+                <element signature="e#44#88#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="route.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/server/routes/chat/route.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>loginS</find>
+      <find>auth</find>
+      <find>passwordHash</find>
+      <find>passwordhash</find>
+      <find>id_t</find>
+      <find>token</find>
+      <find>out</find>
+      <find>pub</find>
+      <find>request</find>
+      <find>login</find>
+      <find>redirect</find>
+      <find>sage</find>
+      <find>pipe</find>
+      <find>dra</find>
+      <find>safe</find>
+      <find>tran</find>
+      <find>Mark</find>
+      <find>jwt</find>
+      <find>flash</find>
+      <find>logout</find>
+      <find>fla</find>
+      <find>register</find>
+      <find>pro</find>
+      <find>own</find>
+      <find>ow</find>
+      <find>save</find>
+      <find>user</find>
+      <find>Response</find>
+      <find>profile</find>
+      <find>save_</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/establishment/establishment.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/server/routes/establishment/route.ts" />
+        <option value="$PROJECT_DIR$/angular-src/angular-cli.json" />
+        <option value="$PROJECT_DIR$/chatserver/package.json" />
+        <option value="$PROJECT_DIR$/backend/socket/parseMessage.ts" />
+        <option value="$PROJECT_DIR$/backend/socket/aiSystem.ts" />
+        <option value="$PROJECT_DIR$/backend/package.json" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/customer/customer.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/chat/chat.component.css" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/chat/chat.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/backend/server/routes/customer/route.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/chat/chat.component.ts" />
+        <option value="$PROJECT_DIR$/backend/server/app.ts" />
+        <option value="$PROJECT_DIR$/backend/socket/chat.ts" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/navbar/navbar.component.css" />
+        <option value="$PROJECT_DIR$/itbot/src/index.html" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/register/register.component.ts" />
+        <option value="$PROJECT_DIR$/itbot/package.json" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/login/login.component.html" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/itbot/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/register/register.component.html" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/dashboard/dashboard.component.css" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/home/home.component.html" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/home/home.component.css" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/createbot/createbot.component.css" />
+        <option value="$PROJECT_DIR$/itbot/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/createbot/createbot.component.html" />
+        <option value="$PROJECT_DIR$/itbot/src/app/components/createbot/createbot.component.ts" />
+        <option value="$PROJECT_DIR$/backend/server/model/chat.ts" />
+        <option value="$PROJECT_DIR$/backend/server/model/establishment.ts" />
+        <option value="$PROJECT_DIR$/backend/server/model/feedback.ts" />
+        <option value="$PROJECT_DIR$/backend/server/model/user.ts" />
+        <option value="$PROJECT_DIR$/backend/server/model/bot.ts" />
+        <option value="$PROJECT_DIR$/backend/server/routes/auth/route.ts" />
+        <option value="$PROJECT_DIR$/backend/server/model/botrule.ts" />
+        <option value="$PROJECT_DIR$/backend/server/config/server.ts" />
+        <option value="$PROJECT_DIR$/backend/tsconfig.json" />
+        <option value="$PROJECT_DIR$/backend/server/config/utils.ts" />
+        <option value="$PROJECT_DIR$/backend/server/routes/routehandler.ts" />
+        <option value="$PROJECT_DIR$/backend/server/routes/botrules/route.ts" />
+        <option value="$PROJECT_DIR$/backend/server/routes/bot/route.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/angular-src/node_modules" />
+    <handled-path value="$PROJECT_DIR$/backend/node_modules" />
+    <handled-path value="$PROJECT_DIR$/itbot/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1598" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="april" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bot.ts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs6.10.2/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pankajg\Desktop\nodejs\april\backend\server\routes\feedback" />
+      <recent name="C:\Users\pankajg\Desktop\nodejs\april\backend\server\routes\bot" />
+      <recent name="C:\Users\pankajg\Desktop\nodejs\april\backend\server\routes\botrules" />
+      <recent name="C:\Users\pankajg\Desktop\nodejs\april\itbot\src\app" />
+      <recent name="C:\Users\pankajg\Desktop\nodejs\april\server\routes\user" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pankajg\Desktop\nodejs\april\backend" />
+      <recent name="C:\Users\pankajg\Desktop\nodejs\april\server\handlers" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment/59118280636aca2c1804abf5" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;My Res  from json&quot;,   &quot;email&quot; : &quot;pankajgGG&quot; ,        &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment/59116ed0c5f9a43c84a1be61" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;My Res  from json&quot;,   &quot;email&quot; : &quot;pankajgGG&quot; ,        &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PATCH" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment/59116ed0c5f9a43c84a1be61" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;My Res  from json&quot;,   &quot;email&quot; : &quot;pankajgGG&quot; ,        &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PATCH" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;My Res  from json&quot;,   &quot;email&quot; : &quot;pankajgGG&quot; ,        &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PATCH" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;My Res  from json&quot;,   &quot;email&quot; : &quot;pankajgGG&quot; ,        &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;My Res  from json&quot;,            &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;My Res  from json&quot;,    &quot;email&quot; : &quot;def@gmail.com&quot;,         &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{         &quot;name&quot; : &quot;Restaurant  from json&quot;,    &quot;email&quot; : &quot;def@gmail.com&quot;,         &quot;phone&quot; : &quot;+91 98452 04336&quot;,          &quot;comment&quot; : &quot;Opening Shortly ok..&quot;   }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{      name: &quot;Restaurant  from json&quot;, email: &quot;def@gmail.com&quot;,      phone: &quot;+91 98452 04336&quot;,       comment: &quot;Opening Shortly ok..&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{      name: &quot;Restaurant  from json&quot;, email: &quot;def@gmail.com&quot;,      phone: &quot;+91 98452 04336&quot;,       comment: &quot;Opening Shortly ok..&quot;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/establishment" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     name: &quot;Restaurant  from json&quot;,      email: &quot;def@gmail.com&quot;,     phone: &quot;+91 98452 04336&quot;,      comment: &quot;Opening Shortly ok..&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="april" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f44249e4-622b-4c51-b01d-1f9064b57ef9" name="Default" comment="" />
+      <created>1493816397566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493816397566</updated>
+      <workItem from="1493816399502" duration="23915000" />
+      <workItem from="1493978481522" duration="27704000" />
+      <workItem from="1494245309572" duration="26626000" />
+      <workItem from="1494392732186" duration="25481000" />
+      <workItem from="1494559180445" duration="71631000" />
+      <workItem from="1495041259450" duration="32580000" />
+      <workItem from="1495294055666" duration="393000" />
+      <workItem from="1495294526426" duration="13563000" />
+      <workItem from="1495446114472" duration="61000" />
+      <workItem from="1495447293867" duration="47000" />
+      <workItem from="1495451794206" duration="12074000" />
+      <workItem from="1495698168192" duration="67520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="301595000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1598" height="868" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14809783" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25682706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/interface/files/__path__/__name__.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/interface/files/__path__/__name__.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/directive/files/__path__/__name__.directive.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/directive/files/__path__/__name__.directive.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/directive/files/__path__/__name__.directive.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/directive/files/__path__/__name__.directive.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/component/files/__path__/__name__.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/component/files/__path__/__name__.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/component/files/__path__/__name__.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/component/files/__path__/__name__.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/service/files/__path__/__name__.service.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/service/files/__path__/__name__.service.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/service/files/__path__/__name__.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/service/files/__path__/__name__.service.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/module/files/__path__/__name__.module.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/module/files/__path__/__name__.module.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/module/files/__path__/__name__.module.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/module/files/__path__/__name__-routing.module.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/module/files/__path__/__name__.module.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/module/files/__path__/__name__-routing.module.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/class/files/__path__/__name__.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/class/files/__path__/__name__.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/class/files/__path__/__name__.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/class/files/__path__/__name__.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/pipe/files/__path__/__name__.pipe.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/pipe/files/__path__/__name__.pipe.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/pipe/files/__path__/__name__.pipe.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/pipe/files/__path__/__name__.pipe.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/enum/files/__path__/__name__.enum.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/enum/files/__path__/__name__.enum.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/environments/environment.prod.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/environments/environment.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/environments/environment.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/environments/environment.prod.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app.module.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app-routing.module.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app-routing.module.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/test.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/polyfills.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/main.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/test.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/main.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/__path__/polyfills.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/e2e/app.e2e-spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/e2e/app.e2e-spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/e2e/app.po.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/angular-cli/blueprints/ng2/files/e2e/app.po.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/karma/config.tpl.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/home/home.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/home/home.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/home/home.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/home/home.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/profile/profile.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/login/login.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/login/login.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/login/login.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/login/login.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/register/register.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/register/register.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/register/register.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/register/register.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/webSocket.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/ajax.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/AjaxObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/ajax.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/webSocket.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/AjaxObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/MiscJSDoc.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/WebSocketSubject.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/MiscJSDoc.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/dom/WebSocketSubject.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/dom/ajax.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/dom/ajax.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/dom/webSocket.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/dom/webSocket.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/distinct.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skip.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timeout.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/pairwise.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/count.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/delay.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skipLast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/let.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concatMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skipUntil.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/debounce.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/race.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/multicast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/repeatWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowToggle.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/sampleTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/single.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/min.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/throttleTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/scan.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timestamp.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/pluck.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/repeat.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concatMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/observeOn.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/defaultIfEmpty.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publishReplay.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/throttle.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concat.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/switchMapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/scan.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/max.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeMapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowCount.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/expand.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/switch.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/onErrorResumeNext.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/throttle.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/repeatWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeMapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/merge.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/switch.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/onErrorResumeNext.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/let.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/distinctUntilKeyChanged.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/takeLast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/takeLast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/dematerialize.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/combineAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/toPromise.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/debounce.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/take.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/max.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/zip.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timeoutWith.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/filter.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/multicast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/takeWhile.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/groupBy.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/shareReplay.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/finally.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/partition.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timestamp.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/first.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/retry.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/single.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/distinctUntilChanged.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/exhaust.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/pairwise.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/takeUntil.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/share.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publishBehavior.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/buffer.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/toArray.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concat.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/isEmpty.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/repeat.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/subscribeOn.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publishReplay.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/materialize.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/startWith.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/distinctUntilKeyChanged.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferCount.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/elementAt.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/delayWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/first.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/switchMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concatMapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/catch.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/reduce.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/audit.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timeInterval.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/delayWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concatAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/map.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/switchMapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publishLast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/delay.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/do.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowToggle.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/buffer.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/auditTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/count.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/window.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concatAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/expand.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/min.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/last.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/sample.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/switchMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/take.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/shareReplay.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/takeWhile.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/findIndex.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/withLatestFrom.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/withLatestFrom.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/auditTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/every.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/retryWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/sequenceEqual.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skipLast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/do.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferToggle.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/catch.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/retry.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/concatMapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/subscribeOn.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/debounceTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publishBehavior.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/dematerialize.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/find.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferCount.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/finally.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/findIndex.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/ignoreElements.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skipWhile.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferToggle.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/exhaustMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publish.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skip.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skipWhile.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/map.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publishLast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/toPromise.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timeoutWith.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/pluck.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/observeOn.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/materialize.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/toArray.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/reduce.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/startWith.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/windowCount.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/every.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/race.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/takeUntil.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/sampleTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeScan.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/sample.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/elementAt.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/zipAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/distinctUntilChanged.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeScan.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/sequenceEqual.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/exhaustMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/share.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/ignoreElements.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/debounceTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/defaultIfEmpty.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/last.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/exhaust.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/combineLatest.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/bufferWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/find.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/publish.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/window.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mergeAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/merge.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timeInterval.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/filter.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/combineAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/isEmpty.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/skipUntil.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/audit.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/timeout.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/partition.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/retryWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/groupBy.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/zip.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/zipAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/mapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/distinct.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/operator/throttleTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/generate.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/forkJoin.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/empty.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/timer.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/zip.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/zip.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/of.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/fromEvent.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/interval.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/concat.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/concat.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/generate.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/using.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/onErrorResumeNext.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/bindNodeCallback.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/bindCallback.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/race.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/defer.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/using.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/throw.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/onErrorResumeNext.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/defer.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/fromEventPattern.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/pairs.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/range.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/of.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/if.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/combineLatest.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/merge.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/never.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/fromEventPattern.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/timer.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/interval.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/bindCallback.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/bindNodeCallback.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/merge.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/fromEvent.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/from.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/range.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/forkJoin.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/fromPromise.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/fromPromise.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/never.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/if.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/empty.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/pairs.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/throw.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/race.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/add/observable/from.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/IntervalObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/EmptyObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/bindCallback.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/RangeObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/pairs.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/FromEventObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/forkJoin.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/fromEventPattern.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ErrorObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ArrayObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/TimerObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/fromPromise.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/EmptyObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ConnectableObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/interval.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/FromEventPatternObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/PairsObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/timer.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/bindNodeCallback.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/merge.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/bindCallback.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/TimerObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/SubscribeOnObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/IfObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/timer.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/DeferObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/concat.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/zip.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/using.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/FromEventPatternObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/forkJoin.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/BoundNodeCallbackObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/GenerateObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/range.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ScalarObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ArrayLikeObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/combineLatest.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/NeverObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/PromiseObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ConnectableObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/zip.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/never.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ScalarObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/throw.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/FromObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/empty.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/if.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/defer.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/fromEventPattern.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/PairsObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/IteratorObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/bindNodeCallback.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/interval.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/concat.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/DeferObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/throw.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/BoundCallbackObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/BoundNodeCallbackObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/UsingObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/range.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/merge.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/GenerateObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/of.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/UsingObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/fromPromise.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/empty.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/from.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/PromiseObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/FromEventObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/pairs.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/NeverObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/RangeObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/fromEvent.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ErrorObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/BoundCallbackObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/defer.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/SubscribeOnObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/IteratorObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/of.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ForkJoinObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/IntervalObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ForkJoinObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/never.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/IfObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ArrayObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/ArrayLikeObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/fromEvent.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/FromObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/from.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/if.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/observable/using.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/Set.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isObject.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isDate.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/FastMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isPromise.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/FastMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/Map.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/tryCatch.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/not.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isArray.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/Immediate.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/ArgumentOutOfRangeError.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/EmptyError.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isFunction.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/UnsubscriptionError.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/tryCatch.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/subscribeToResult.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isDate.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/subscribeToResult.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isFunction.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isNumeric.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/AnimationFrame.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/toSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/MapPolyfill.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/noop.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/errorObject.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/Map.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/toSubscriber.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/Set.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isObject.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isScheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/root.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/TimeoutError.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/MapPolyfill.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isPromise.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/assign.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/assign.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isScheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/AnimationFrame.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isArrayLike.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/ObjectUnsubscribedError.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isArray.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/ArgumentOutOfRangeError.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/applyMixins.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/errorObject.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/root.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/applyMixins.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isNumeric.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/isArrayLike.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/UnsubscriptionError.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/Immediate.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/ObjectUnsubscribedError.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/noop.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/EmptyError.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/not.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/util/TimeoutError.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/SubscriptionLog.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/TestMessage.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/TestMessage.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/SubscriptionLoggable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/SubscriptionLog.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/TestScheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/ColdObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/ColdObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/HotObservable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/SubscriptionLoggable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/HotObservable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/testing/TestScheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsyncAction.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/VirtualTimeScheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/animationFrame.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/queue.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsapScheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/animationFrame.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AnimationFrameScheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsyncScheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/QueueScheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/QueueScheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AnimationFrameAction.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsapScheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/asap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsyncScheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsapAction.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsapAction.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AnimationFrameScheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/QueueAction.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AsyncAction.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/VirtualTimeScheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/asap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/async.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/AnimationFrameAction.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/Action.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/Action.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/queue.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/async.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/scheduler/QueueAction.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/distinct.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skip.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timeout.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/pairwise.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/count.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/delay.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skipLast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/let.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concatMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skipUntil.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/debounce.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/race.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/multicast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/repeatWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowToggle.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/sampleTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/single.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/min.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/throttleTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/scan.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timestamp.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/pluck.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/repeat.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concatMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/observeOn.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/defaultIfEmpty.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publishReplay.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/throttle.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concat.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/switchMapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/scan.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/max.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeMapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowCount.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/expand.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/switch.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/onErrorResumeNext.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/throttle.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/repeatWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeMapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/merge.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/switch.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/onErrorResumeNext.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/let.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/distinctUntilKeyChanged.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/takeLast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/takeLast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/dematerialize.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/combineAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/toPromise.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/debounce.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/take.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/max.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/zip.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timeoutWith.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/filter.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/multicast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/takeWhile.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/groupBy.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/shareReplay.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/finally.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/partition.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timestamp.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/first.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/retry.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/single.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/distinctUntilChanged.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/exhaust.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/pairwise.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/takeUntil.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/share.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publishBehavior.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/buffer.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/toArray.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/combineLatest.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concat.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/isEmpty.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/repeat.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/subscribeOn.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publishReplay.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/materialize.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/startWith.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/distinctUntilKeyChanged.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferCount.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/elementAt.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/delayWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/first.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/switchMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concatMapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/catch.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/reduce.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/audit.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timeInterval.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/delayWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concatAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/map.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/switchMapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publishLast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/delay.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/do.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowToggle.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/buffer.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/auditTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/count.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/window.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concatAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/expand.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/min.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/last.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/sample.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/switchMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/take.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/shareReplay.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/takeWhile.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/findIndex.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/withLatestFrom.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/withLatestFrom.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/auditTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/every.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/retryWhen.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/sequenceEqual.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skipLast.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/do.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferToggle.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/catch.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/retry.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/concatMapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/subscribeOn.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/debounceTime.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publishBehavior.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/dematerialize.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/find.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferCount.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/finally.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/findIndex.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/ignoreElements.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skipWhile.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferToggle.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/exhaustMap.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publish.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skip.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skipWhile.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/map.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publishLast.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/toPromise.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timeoutWith.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/pluck.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/observeOn.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/materialize.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/toArray.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/reduce.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/startWith.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/windowCount.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/every.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/race.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/takeUntil.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/sampleTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeScan.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/sample.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/elementAt.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/zipAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/distinctUntilChanged.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeScan.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/sequenceEqual.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/exhaustMap.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/share.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/ignoreElements.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/debounceTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/defaultIfEmpty.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/last.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/exhaust.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mapTo.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/combineLatest.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/bufferWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/find.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/publish.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/window.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mergeAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/merge.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timeInterval.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/filter.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/combineAll.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/isEmpty.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/skipUntil.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/audit.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/timeout.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/partition.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/retryWhen.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/groupBy.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/zip.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/zipAll.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/mapTo.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/distinct.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/operator/throttleTime.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/symbol/rxSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/symbol/iterator.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/symbol/rxSubscriber.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/symbol/observable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/symbol/iterator.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/symbol/observable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/ReplaySubject.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/SubjectSubscription.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Observer.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/AsyncSubject.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/ReplaySubject.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Scheduler.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/OuterSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/SubjectSubscription.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Observable.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Subscription.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Rx.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Rx.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/AsyncSubject.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Notification.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Subscription.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Subject.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Notification.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/MiscJSDoc.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Subscriber.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Operator.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/BehaviorSubject.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/InnerSubscriber.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Subject.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Operator.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Observable.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Observer.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/BehaviorSubject.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Scheduler.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/InnerSubscriber.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/MiscJSDoc.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/OuterSubscriber.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/rxjs/src/Subscriber.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/specPageObjects.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/angularPage.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/specPageObjects.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/plugins.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/plugins.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/angularPage.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/confPageObjects.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/conf.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/confPageObjects.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/conf.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/asyncAwait/conf.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/asyncAwait/spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/asyncAwait/conf.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/protractor/exampleTypescript/asyncAwait/spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/environments/environment.prod.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/environments/environment.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/environments/environment.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/environments/environment.prod.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/mix/rollup-mix.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/mix/rollup-mix.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.component.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/jasmine/jasmine.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/jasmine/jasmine.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/fake-async-test.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/long-stack-trace.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/sync-test.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/task-tracking.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/async-test.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/proxy.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/sync-test.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/task-tracking.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/fake-async-test.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/async-test.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/wtf.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/wtf.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/proxy.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone-spec/long-stack-trace.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/mocha/mocha.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/mocha/mocha.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/extra/bluebird.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/extra/bluebird.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/rollup-main.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/rollup-main.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/browser.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/webapis-notification.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/event-target.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/webapis-media-query.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/webapis-media-query.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/webapis-notification.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/register-element.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/property-descriptor.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/register-element.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/browser.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/define-property.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/websocket.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/property-descriptor.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/websocket.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/event-target.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/browser/define-property.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/common/timers.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/common/utils.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/common/utils.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/common/timers.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/node/fs.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/node/node.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/node/events.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/node/fs.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/node/events.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/node/node.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/e2e/app.e2e-spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/e2e/app.e2e-spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/e2e/app.po.js" />
+        <option value="$PROJECT_DIR$/angular-src/e2e/app.po.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/test.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/polyfills.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/main.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/test.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/main.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/polyfills.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone.js" />
+        <option value="$PROJECT_DIR$/angular-src/node_modules/zone.js/lib/zone.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/register-validate-service.service.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/register-validate-service.service.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/register-validate-service.service.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/register-validate-service.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/auth.service.spec.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/auth.service.spec.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/auth.service.js.map" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/services/auth.service.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/guards/auth.guard.js" />
+        <option value="$PROJECT_DIR$/angular-src/src/app/guards/auth.guard.js.map" />
+        <option value="$PROJECT_DIR$/backend/socket/chat.js.map" />
+        <option value="$PROJECT_DIR$/backend/socket/chat.js" />
+        <option value="$PROJECT_DIR$/backend/socket/parseMessage.js.map" />
+        <option value="$PROJECT_DIR$/backend/socket/parseMessage.js" />
+        <option value="$PROJECT_DIR$/backend/socket/aiSystem.js" />
+        <option value="$PROJECT_DIR$/backend/socket/aiSystem.js.map" />
+        <option value="$PROJECT_DIR$/backend/server/routes/botrules/route.js" />
+        <option value="$PROJECT_DIR$/backend/server/routes/botrules/route.js.map" />
+        <option value="$PROJECT_DIR$/backend/server/model/botrule.js.map" />
+        <option value="$PROJECT_DIR$/backend/server/model/botrule.js" />
+        <option value="$PROJECT_DIR$/backend/server/model/feedback.js" />
+        <option value="$PROJECT_DIR$/backend/server/model/feedback.js.map" />
+        <option value="$PROJECT_DIR$/backend/server/routes/bot/route.js" />
+        <option value="$PROJECT_DIR$/backend/server/routes/bot/route.js.map" />
+        <option value="$PROJECT_DIR$/backend/server/routes/feedback/route.js" />
+        <option value="$PROJECT_DIR$/backend/server/routes/feedback/route.js.map" />
+        <option value="$PROJECT_DIR$/backend/server/config/utils.js" />
+        <option value="$PROJECT_DIR$/backend/server/config/utils.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="47" column="68" lean-forward="false" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/guards/auth.guard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="64" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/dashboard/dashboard.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/register/register.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/register/register.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/angular-src/src/app/components/home/home.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="96" lean-forward="false" selection-start-line="19" selection-start-column="96" selection-end-line="19" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/createbot/createbot.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <marker date="1495803255516" expanded="true" signature="1593:1607" ph="[...]" />
+            <marker date="1495803255516" expanded="true" signature="1593:1839" ph="{...}" />
+            <marker date="1495803255516" expanded="true" signature="1620:1738" ph="[...]" />
+            <marker date="1495803255516" expanded="true" signature="1864:1867" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/dashboard/dashboard.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="39" column="64" lean-forward="false" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/dashboard/dashboard.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/createbot/createbot.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="88" column="16" lean-forward="false" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/createbot/createbot.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/establishment/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="42" column="56" lean-forward="true" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/user/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/customer/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/login/login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/components/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itbot/src/app/services/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/customer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/establishment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#45#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/feedback.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="6" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding>
+            <element signature="e#91#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/owner.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/user.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/feedback/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/config/auth.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/config/jwt.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/chat.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/bot.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#45#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/model/botrule.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <marker date="1495905827800" expanded="true" signature="332:809" ph="{&quot;apiai&quot;: &quot;^4.0.2&quot;...}" />
+            <marker date="1495905827800" expanded="true" signature="832:1507" ph="{&quot;@types/bcrypt&quot;: &quot;^1.0.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/config/server.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/auth/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/config/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" column="91" lean-forward="false" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+          <folding>
+            <element signature="e#45#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/routehandler.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/chat/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/botrules/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="110" column="8" lean-forward="false" selection-start-line="110" selection-start-column="8" selection-end-line="129" selection-end-column="11" />
+          <folding>
+            <element signature="e#44#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/server/routes/bot/route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="48" column="29" lean-forward="false" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="e#44#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

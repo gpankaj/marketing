@@ -1,0 +1,61 @@
+<script src="custom.js" xmlns="http://www.w3.org/1999/html"></script>
+<br><br>
+<div class="container" >
+  <div class="section">
+    <div class="row">
+
+      <p></p>
+      <div >
+        <div class="col-md-5">
+          <div class="panel panel-primary panel-resizable">
+            <div class="panel-heading" id="accordion">
+              <span class="glyphicon glyphicon-comment"></span> Jenkins - AI
+              <div class="btn-group pull-right">
+                <a type="button" class="btn btn-default btn-xs" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                  <span class="glyphicon glyphicon-chevron-down"></span>
+                </a>
+              </div>
+            </div>
+
+            <div class="panel" id="collapseOne">
+
+              <div class="panel-body" #scrollMe >
+                <ul class="chat" *ngFor="let msg of conversation">
+
+                  <li class="left clearfix"><span class="chat-img pull-left">
+                      <img src="http://placehold.it/50/55C1E7/fff&text=U" alt="User Avatar" class="img-circle" />
+                        </span>
+                    <div class="chat-body clearfix">
+                      <div class="header">
+                        <strong class="primary-font">Jack Sparrow</strong> <small class="pull-right text-muted">
+                        <span class="glyphicon glyphicon-time"></span>12 mins ago</small>
+                      </div>
+
+                      <script type="text/javascript" [src]="msg.script"></script>
+                      <p [innerHtml]="msg.html" [ngStyle]="msg"></p>
+
+
+                    </div>
+                  </li>
+
+
+                </ul>
+              </div>
+              <div class="panel-footer">
+                <div class="input-group">
+                  <input id="btn-input" type="text" [(ngModel)]="message"  (keypress)="keypressHandler($event)" class="form-control input-sm" placeholder="Type your message here..." />
+                  <span class="input-group-btn">
+                            <button (click)="send()" class="btn btn-warning btn-sm" id="btn-chat">
+                                Send</button>
+                        </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+</div>
