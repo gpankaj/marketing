@@ -7,6 +7,7 @@ import {ServerConfig} from "../../config/server";
 import {Utils} from "../../config/utils";
 import {BotRule} from "../../model/botrule";
 import Request = Express.Request;
+import * as mongoose from "mongoose";
 
 
 export class BotRulesRouter{
@@ -14,6 +15,12 @@ export class BotRulesRouter{
 
     constructor() {
 
+        /*
+        * Create a new Bot rule
+        *
+        *
+        *
+        * */
 
         this.routerVar.post('/',ServerConfig.passport.authenticate('jwt',{session:false}),(req,res,next)=>{
             if(!req.body.id) {
@@ -57,11 +64,11 @@ export class BotRulesRouter{
                 });
         });
 
-        /* List a rule by it's object id
+        /* List a rule by it's id
         *
-        *
+        *localhost:8080/rule/59299236d9813d37b88f951d
         * */
-        this.routerVar.get('/:ruleid',(req,res,next)=>{
+        this.routerVar.get('/:ruleid',ServerConfig.passport.authenticate('jwt',{session:false}), (req,res,next)=>{
             if(!req.params.ruleid) {
                 res.status(200).json({status: 'error', message: " Must to specify bot id "});
             }
@@ -82,14 +89,70 @@ export class BotRulesRouter{
                 });
         });
 
+        /* Delete a rule given it's id
+         *
+         *localhost:8080/rule/59299236d9813d37b88f951d   (Make sure to select DELETE as REST API call)
+         * */
+        this.routerVar.delete('/:ruleid',ServerConfig.passport.authenticate('jwt',{session:false}), (req,res,next)=>{
+            if(!req.params.ruleid) {
+                res.status(200).json({status: 'error', message: " Must to specify bot id "});
+            }
 
-        /* List all the rules
-        *
+            BotRule.findByIdAndRemove(req.params.ruleid,
+                function (err:Error, result:any) {
+                    if(err) {
+                        console.log("DB error in fetching record " , err);
+                        res.status(200).json({message:'failed to find data from database ' + err, status: 'error'});
+                    }
+                    if(!result) {
+                        res.status(200).json({success: 'success', message: "There is no rule with this ID " + req.params.ruleid});
+                    } else {
+                        res.status(200).json({success: 'success', message: "Deleted Successfully " +  req.params.ruleid,
+                            result : JSON.stringify(result)
+                        });
+                    }
+                });
+        });
+
+
+        /* Update a rule given it's id
+         *
+         *localhost:8080/rule/592992c86348ab2ac83710fd
+         * {
+            "pattern" : "***********",
+            "condition": "Veg fun dine",
+            "textResult": "IT"
+         }
+         * */
+        this.routerVar.patch('/:ruleid',ServerConfig.passport.authenticate('jwt',{session:false}), (req,res,next)=>{
+            if(!req.params.ruleid) {
+                res.status(200).json({status: 'error', message: " Must to specify bot id "});
+            }
+
+            BotRule.findByIdAndUpdate(req.params.ruleid, req.body,
+                function (err:Error, result:any) {
+                    if(err) {
+                        console.log("DB error in fetching record " , err);
+                        res.status(200).json({message:'failed to find data from database ' + err, status: 'error'});
+                    }
+                    if(!result) {
+                        res.status(200).json({success: 'success', message: "There is no rule with this ID " + req.params.ruleid});
+                    } else {
+                        res.status(200).json({success: 'success', message: "Updated Successfully " +  req.params.ruleid,
+                            result : JSON.stringify(result)
+                        });
+                    }
+                });
+        });
+
+
+        /* List all the rules created by me.
+        *  localhost:8080/rule/
         *
         * */
-        this.routerVar.get('/all',(req,res,next)=>{
-
-            BotRule.find({},
+        this.routerVar.get('/',ServerConfig.passport.authenticate('jwt',{session:false}), (req,res,next)=>{
+            console.log("Req object ", JSON.stringify(req.user));
+            BotRule.find({createdBy:req.user._id },
                 function (err:Error, result:any) {
                     if(err) {
                         console.log("DB error in fetching record " , err);
@@ -105,10 +168,11 @@ export class BotRulesRouter{
                 });
         });
 
-        /* List rule by bot id
+        /* List rule by bot id - list all the rules of a botid
+        Example : localhost:8080/rule/bot/592923ff89083f47dcd41435
         * */
 
-        this.routerVar.get('/bot/:botid',(req,res,next)=>{
+        this.routerVar.get('/bot/:botid',ServerConfig.passport.authenticate('jwt',{session:false}), (req,res,next)=>{
             if(!req.params.botid) {
                 res.status(200).json({status: 'error', message: " Must to specify bot id "});
             }
@@ -129,6 +193,28 @@ export class BotRulesRouter{
                 });
         });
 
+        /* Given a bot id and rule id display its details
+        Example: localhost:8080/rule/bot/592923ff89083f47dcd41435/59299236d9813d37b88f951d
+         * */
+        this.routerVar.get('/bot/:botid/:ruleid', ServerConfig.passport.authenticate('jwt',{session:false}), (req,res,next)=>{
+            if(!req.params.botid) {
+                res.status(200).json({status: 'error', message: " Must to specify bot id "});
+            }
+            BotRule.find({bot: req.params.botid, _id: req.params.ruleid},
+                function (err:Error, result:any) {
+                    if(err) {
+                        console.log("DB error in fetching record " , err);
+                        res.status(200).json({message:'failed to find data from database ' + err, status: 'error'});
+                    }
+                    if(!result) {
+                        res.status(200).json({success: 'success', message: "There is no rule with this ID " + req.params.botid});
+                    } else {
+                        res.status(200).json({success: 'success', message: "Rule for Bot id : " +  req.params.botid + " rule id: " + req.params.ruleid,
+                            result : JSON.stringify(result)
+                        });
+                    }
+                });
+        });
     }
 
     getRouter() {

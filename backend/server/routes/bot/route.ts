@@ -13,6 +13,9 @@ export class BotBasicRouter{
 
     constructor() {
 
+        /***
+         * Create a bot
+         */
         this.routerVar.post('/',ServerConfig.passport.authenticate('jwt',{session:false}),(req,res,next)=>{
             if(!req.body.name) {
                 res.status(200).json({status: 'error', message: " Must to specify Email id"});
@@ -44,28 +47,59 @@ export class BotBasicRouter{
             console.log("Response " , req.body);
         });
 
-
+        /**
+         * Get a bot by its ID
+         */
 
         this.routerVar.get('/:botid',(req,res,next)=>{
             if(!req.params.botid) {
                 res.status(200).json({status: 'error', message: " Must to specify bot id "});
             }
 
-            Bot.find({bot: req.params.botid},
+            Bot.findById(req.params.botid,
                 function (err:Error, result:any) {
                     if(err) {
                         console.log("DB error in fetching record " , err);
                         res.status(200).json({message:'failed to find data from database ' + err, status: 'error'});
                     }
                     if(!result) {
-                        res.status(200).json({success: 'success', message: "There is no rule with this ID " + req.params.botid});
+                        res.status(200).json({success: 'success', message: "There is no Bot with this ID " + req.params.botid});
                     } else {
-                        res.status(200).json({success: 'success', message: "Rules for Bot id : " +  req.params.botid,
+                        res.status(200).json({success: 'success', message: "Details for Bot : " +  req.params.botid,
                             result : JSON.stringify(result)
                         });
                     }
                 });
         });
+
+
+        /*
+        * Update a bot
+        * */
+        this.routerVar.patch('/:botid',(req,res,next)=>{
+            if(!req.params.botid) {
+                res.status(200).json({status: 'error', message: " Must to specify bot id "});
+            }
+
+            Bot.findByIdAndUpdate(req.params.botid, req.body,
+                function (err:Error, result:any) {
+                    if(err) {
+                        console.log("DB error in fetching record " , err);
+                        res.status(200).json({message:'failed to find data from database ' + err, status: 'error'});
+                    }
+                    if(!result) {
+                        res.status(200).json({success: 'success', message: "There is no Bot with this ID " + req.params.botid});
+                    } else {
+                        res.status(200).json({success: 'success', message: "Updated Bot : " +  req.params.botid,
+                            result : JSON.stringify(result)
+                        });
+                    }
+                });
+        });
+
+        /**TBD
+         * Delete a bot and all of it's rules - first delete all the rules of the bot.
+         */
 
 
     }
