@@ -3,7 +3,8 @@
  */
 
 export class MyConfig{
-    dbUrl : string = 'mongodb://localhost:27017/meanauth';
+    #dbUrl : string = 'mongodb://localhost:27017/meanauth';
+    dbUrl : string = 'mongodb://gpankaj:onanai123@ds119750.mlab.com:19750/onanai';
     secretKey : string = 'secret';
 
     constructor() {

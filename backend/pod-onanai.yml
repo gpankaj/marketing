@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: support.onanai.in
+  labels:
+    app:support
+spec:
+  containers:
+  - name: backend
+    image: onanai/support
+    ports:
+    - containerPort: 8080
