@@ -1,12 +1,12 @@
-apiVersion: v1
-kind: Pod
+apiVersion: "v1"
+kind: "Pod"
 metadata:
-  name: support.onanai.in
+  name: "support.onanai.in"
   labels:
-    app:support
+    app: "support"
 spec:
   containers:
-  - name: backend
-    image: onanai/support
+  - name: "backend"
+    image: "onanai/v1"
     ports:
-    - containerPort: 8080
+    - containerPort: "8080"
