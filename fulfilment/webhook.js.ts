@@ -31,6 +31,6 @@ server.get('/', (req,res,next)=>{
 
 
 
-server.listen(PORT,()=>{
+server.listen(PORT,'0.0.0.0',()=>{
     console.log("Server listening on " , PORT);
 })
